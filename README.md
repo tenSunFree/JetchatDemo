@@ -16,7 +16,7 @@ https://play.google.com/store/apps/details?id=jp.naver.line.android
 --------
 <p align="left">
   <img src="https://i.imgur.com/iQyEhka.png" width="230"/>
-  <img src="https://i.imgur.com/WK4Hcbq.png" width="430"/>
+  <img src="https://i.imgur.com/WK4Hcbq.png" width="230"/>
 </p> 
 
 備註
